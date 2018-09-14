@@ -74,6 +74,7 @@ dfMean = df.groupby("time").mean()
 
 ##### 4. Extracting feature set 
 *We are using PM10 and Sound for classification model, but later we will add two more data (PM2.5 and PM1)* 
+
 |          |           |     |    |    |    |
 |----------|-----------|-----|----|----|----| 
 | 4/4/2018 |  13:44 | 24 | 42 | 44 | 65 |
